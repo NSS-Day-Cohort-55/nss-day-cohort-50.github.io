@@ -8,7 +8,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -18,11 +17,10 @@
       "firstName": "Andrew",
       "lastName": "Cheatham",
       "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
-      "github": "https://github.com/NSS-Day-Cohort-55",
-      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
-      "email": "email@me.com",
+      "bio": "Previous sales and management professional. Taking a long time interest in technology and turning it into a focused and professional pursuit. Results driven and detail oriented with excellent communication skills that I look forward to employing in my new career as a software developer.",
+      "github": "https://github.com/acheatham87",
+      "linkedIn": "https://www.linkedin.com/in/andrewcheatham87/",
+      "email": "acheatham87@gmail.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
     },
@@ -34,7 +32,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -47,7 +44,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -60,7 +56,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -69,14 +64,13 @@
       "id": 6,
       "firstName": "Derrick",
       "lastName": "Cravens",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
-      "github": "https://github.com/NSS-Day-Cohort-55",
-      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
-      "email": "email@me.com",
-      "proImg": "../proimageHolder.png",
-      "funImg": "../funimageHolder.png"
+      "reelThemIn": "gitgud",
+      "bio": "I have always been a very knowledge hungry person and that has led me to software development for a professional career. I strive to be the best in everything I do. I have always loved technology, and after finishing college I knew I wanted to move in the direction of software development where I will never stop learning.",
+      "github": "https://github.com/hulikner",
+      "linkedIn": "https://www.linkedin.com/in/derick-cravens/",
+      "email": "hulikner@gmail.com",
+      "proImg": "../classmates/derickCravens.jpg",
+      "funImg": "../classmates/derickCravensFUN.jpg"
     },
     {
       "id": 7,
@@ -86,7 +80,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -99,7 +92,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -112,7 +104,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -125,7 +116,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -138,7 +128,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -151,7 +140,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -160,12 +148,12 @@
       "id": 13,
       "firstName": "Luke",
       "lastName": "Slater",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
-      "github": "https://github.com/NSS-Day-Cohort-55",
-      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
-      "email": "email@me.com",
+      "reelThemIn": "am i ever in class?",
+      "bio": "I've always been a lover of, and intruiged by, technology. I built my first PC when I was 13. From there, I basically grew up on the internet, so it was only natural that I would pursue a career in software development, via Nashville Software School. Both the learning experience and the work in-class has been immensely engaging and rewarding. I am very excited to begin my career in the industry.",
+      "github": "https://github.com/LukeSlater02",
+      "linkedIn": "https://www.linkedin.com/in/luke-slater/",
+      "portfolio": "http://www.dndnearby.com/",
+      "email": "lukeslater101@gmail.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
     },
@@ -177,7 +165,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -186,14 +173,13 @@
       "id": 15,
       "firstName": "Olivia",
       "lastName": "Lind",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
-      "github": "https://github.com/NSS-Day-Cohort-55",
-      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
-      "email": "email@me.com",
-      "proImg": "../proimageHolder.png",
-      "funImg": "../funimageHolder.png"
+      "reelThemIn": "Full Stack Software Developer | JavaScript, HTML5, CSS, React, C#, .NET",
+      "bio": "I’m a Nashville native, software developer, and former legal assistant. From 2017 to 2020, I co-hosted Something's Not Right, winner of the 2018 Reader's Poll for Best Podcast in the Nashville Scene's \"Best of Nashville\" issue. In 2019, I launched an investigative true crime podcast, Flatrock.<br> <br>I’ve always maintained a passion for exercising the creative and problem-solving parts of my brain, and it's that passion that drew me into development. I built my first websites as a teenager and remained a self-taught hobbyist. With the latest tools and technology now at my disposal, I can further feed my passion for solving complex problems in a creative way.<br><br>Most importantly, I have the ability to identify voiceover actors in less than three seconds, I never remember that Heart sang \"These Dreams,\" and my favorite Batman is Michael Keaton.",
+      "github": "https://github.com/eo-lind",
+      "linkedIn": "https://www.linkedin.com/in/olivialind",
+      "email": "eo.lind@gmail.com",
+      "proImg": "../classmates/oliviaLind.jpg",
+      "funImg": "../classmates/oliviaLindFUN.png"
     },
     {
       "id": 16,
@@ -203,7 +189,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -216,7 +201,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -229,7 +213,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -242,7 +225,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -255,7 +237,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
@@ -268,7 +249,6 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/NSS-Day-Cohort-55",
       "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
-      "portfolio": "http://www.dakotalambert.com/",
       "email": "email@me.com",
       "proImg": "../proimageHolder.png",
       "funImg": "../funimageHolder.png"
