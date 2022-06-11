@@ -5,7 +5,7 @@ p {
 html, body {
     max-width: 100%;
     overflow-x: hidden;
-    background: url("../images/background.jpg") fixed no-repeat;
+    background: url("../images/woodenbackground.jpg") fixed no-repeat;
     background-size: 100%;
     background-color: black;
 }
@@ -30,7 +30,16 @@ blockquote{
 .nav-spacing {
   margin-right: 2em;
 }
-
+.navbar-nav li{
+    transition: ease-in-out 0.8s;
+}
+.navbar-nav li :hover{
+    letter-spacing: 2px;
+}
+.navbar-nav li :hover ::before{
+    opacity: 1; 
+    transform: scale(1, 1);
+}
 #cohort22{
     display: inline-block;
     color: #238193;
@@ -42,6 +51,38 @@ blockquote{
     color: lightgray;
 
 }
+.animate-charcter
+{
+   text-transform: uppercase;
+  background-image: linear-gradient(
+    -225deg,
+    #7F4F24 0%,
+    #A68A64 29%,
+    #A4AC86 57%,
+    #414833 76%,
+    #582F0E 92%
+  );
+  background-size: auto auto;
+  background-clip: border-box;
+  background-size: 200% auto;
+  color: #fff;
+  background-clip: text;
+  /* text-fill-color: transparent; */
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  animation-name: textclip;
+  animation-duration: 5s;
+  animation-timing-function: linear;
+  animation-iteration-count: infinite;
+  /* animation: textclip 3s linear infinite; */
+  display: inline-block;
+      font-size: 40px;
+}
+@keyframes textclip {
+    to {
+      background-position: 200% center;
+    }
+  }
 .header-text{
     margin: 0 auto;
     padding-top: 10px;
@@ -183,6 +224,7 @@ main {
 
 #demo-date a {
     color: #238193!important;
+    /* color: #7F4F24; */
 }
 
 button{
