@@ -13,6 +13,7 @@ $.ajax({
 
 function cohortMembers(list) {
   let data = list.cohort;
+  let revealSecret = false;
   data.forEach(function (item) {
     let studentContact = `<div class="studentContact">`;
     //if student doesn't have a portfolio site then don't display the icon
@@ -71,7 +72,7 @@ function cohortMembers(list) {
               </button>
             </div>
             <div class="modal-body">
-            <center><img src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+            <center><img id="${item.firstName}${item.lastName}-modalImg" src="images/classmates/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
 
             `;
 
@@ -88,13 +89,30 @@ function cohortMembers(list) {
           </div >
         </div >
       </div > `;
+      document.getElementById("cohort").innerHTML += studentInfo;
+      var img = document.getElementById(
+        `${item.firstName}${item.lastName}-modalImg`
+      );
+      document.addEventListener("keydown", (event) => {
+        if (event.key == "s" || event.key == "S") {
+          $(`#${item.firstName}${item.lastName}-modalImg`).attr(
+            "src",
+            `images/classmates/${item.scrtImg}`
+          );
+        }
+      });
+      document.addEventListener("keyup", (event) => {
+        $(`#${item.firstName}${item.lastName}-modalImg`).attr(
+          "src",
+          `images/classmates/${item.funImg}`
+        );
+      });
     } else {
       studentInfo += `
       </div>
         </div>
         `;
     }
-    document.getElementById("cohort").innerHTML += studentInfo;
   });
 }
 
