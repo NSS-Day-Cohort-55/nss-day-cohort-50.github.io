@@ -13,7 +13,6 @@ $.ajax({
 
 function cohortMembers(list) {
   let data = list.cohort;
-  let revealSecret = false;
   data.forEach(function (item) {
     let studentContact = `<div class="studentContact">`;
     //if student doesn't have a portfolio site then don't display the icon
@@ -112,6 +111,111 @@ function cohortMembers(list) {
       </div>
         </div>
         `;
+    }
+  });
+}
+
+$.ajax({
+  url: "data/instructors.json",
+})
+  .done(instructorsMembers)
+  .fail(function (error) {
+    console.log("error", error);
+  });
+
+function instructorsMembers(list) {
+  let data = list.instructors;
+  data.forEach(function (item) {
+    let instructorContact = `<div class="instructorContact">`;
+    if (item.portfolio != null) {
+      instructorContact += `<a href=${item.portfolio} target="_blank">
+        <i class="fas fa-globe fa-2x contactIcons"></i>
+        </a>`;
+    }
+    if (item.github != null) {
+      instructorContact += `<a href=${item.github} target="_blank">
+        <i class="fab fa-github fa-2x contactIcons"></i>
+        </a>`;
+    }
+    if (item.linkedIn != null) {
+      instructorContact += `<a href=${item.linkedIn} target="_blank">
+        <i class="fab fa-linkedin fa-2x contactIcons"></i>
+        </a>`;
+    }
+    if (item.email != null) {
+      instructorContact += `<a href=mailto:${item.email}>
+                <i class="fas fa-envelope fa-2x contactIcons"></i>
+              </a>`;
+    }
+    instructorContact += `</div>`;
+
+    let instructorInfo = `<div class="col-md-3 instructorsMems">
+            <img class="card-img-top" src="images/instructors/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#instructorsMember${item.id}" style="cursor:pointer;">
+            <div class="card-body">
+              <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`;
+    if (item.reelThemIn != null) {
+      instructorInfo += `<p class="card-text">${item.reelThemIn}</p>`;
+    }
+    instructorInfo += instructorContact;
+
+    if (item.bio != null) {
+      instructorInfo += `
+              <center><button type="button" class="btn btn-outline-primary title-font bottom" data-toggle="modal" data-target="#instructorsMember${item.id}">
+             Learn More!
+            </button></center>
+            </div>
+          </div>`;
+      instructorInfo += `
+          <div class="modal fade" id="instructorsMember${item.id}" tabindex="-1" role="dialog" aria-labelledby="instructorsMember${item.id}Label" aria-hidden="true">
+          <div class="modal-dialog" role="document">
+            <div class="modal-content">
+              <div class="modal-header">
+             <h5 class="modal-title title-font" id="instructorsMember${item.id}Label">${item.firstName} ${item.lastName}</h5>
+                <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                  <span aria-hidden="true">&times;</span>
+                </button>
+              </div>
+              <div class="modal-body">
+              <center><img id="${item.firstName}${item.lastName}-modalImg" src="images/instructors/${item.funImg}" alt="${item.firstName} ${item.lastName} fun"/></center><br>
+  
+              `;
+
+      instructorInfo += instructorContact;
+
+      instructorInfo += `
+        
+      ${item.bio}
+      </div>
+      <center><button type="button" data-dismiss="modal" class="backButton btn btn-outline-primary title-font bottom" aria-label="Close">
+        Back
+                </button></center>
+              
+            </div >
+          </div >
+        </div > `;
+      document.getElementById("instructors").innerHTML += instructorInfo;
+      var img = document.getElementById(
+        `${item.firstName}${item.lastName}-modalImg`
+      );
+      document.addEventListener("keydown", (event) => {
+        if (event.key == "s" || event.key == "S") {
+          $(`#${item.firstName}${item.lastName}-modalImg`).attr(
+            "src",
+            `images/instructors/${item.scrtImg}`
+          );
+        }
+      });
+      document.addEventListener("keyup", (event) => {
+        $(`#${item.firstName}${item.lastName}-modalImg`).attr(
+          "src",
+          `images/instructors/${item.funImg}`
+        );
+      });
+    } else {
+      studentInfo += `
+        </div>
+          </div>
+          `;
     }
   });
 }

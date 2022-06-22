@@ -1,0 +1,82 @@
+{
+  "instructors": [
+    {
+      "id": 1,
+      "firstName": "Brenda",
+      "lastName": "Long",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/brendalong",
+      "linkedIn": "https://www.linkedin.com/in/brenda-long/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    },
+    {
+      "id": 2,
+      "firstName": "Josh",
+      "lastName": "Barton",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/joshdbarton",
+      "linkedIn": "https://www.linkedin.com/in/ben-watts9/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    },
+    {
+      "id": 3,
+      "firstName": "Dakota",
+      "lastName": "Lambert",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/DakotaLambert",
+      "linkedIn": "https://www.linkedin.com/in/dakotashaynelambert/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    },
+    {
+      "id": 4,
+      "firstName": "Doug",
+      "lastName": "Silvera",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/DougSilvera",
+      "linkedIn": "https://www.linkedin.com/in/douglas-silvera/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    },
+    {
+      "id": 5,
+      "firstName": "Lucian Kipp",
+      "lastName": "Minton",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/KippMinton",
+      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    },
+    {
+      "id": 6,
+      "firstName": "Ross",
+      "lastName": "Stovenour",
+      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "github": "https://github.com/Jubjub422",
+      "linkedIn": "https://www.linkedin.com/in/ross-stovenour/",
+      "email": "email@me.com",
+      "proImg": "benWatts.jpg",
+      "funImg": "benWattsFUN.jpg",
+      "scrtImg": "benWattsSECRET.jpg"
+    }
+  ]
+}
