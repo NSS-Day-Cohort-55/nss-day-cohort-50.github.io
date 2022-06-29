@@ -119,6 +119,8 @@ main {
     overflow-x: hidden;
   }
 
+
+
 .row{
     justify-content: center;
 }
@@ -168,7 +170,9 @@ main {
 .card-img-top{
     border-top-left-radius: 10px;
     border-top-right-radius: 10px;
-  }
+    min-height: 200px;
+    max-height: 200px;
+}
 
 .col,
 [class*="col-"] {
