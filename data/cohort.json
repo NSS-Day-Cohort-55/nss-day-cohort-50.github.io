@@ -17,7 +17,7 @@
       "id": 2,
       "firstName": "Andrew",
       "lastName": "Cheatham",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "reelThemIn": "Full Stack Software Developer | JavaScript, HTML5, CSS, React, C#, .NET",
       "bio": "Previous sales and management professional. Taking a long time interest in technology and turning it into a focused and professional pursuit. Results driven and detail oriented with excellent communication skills that I look forward to employing in my new career as a software developer.",
       "github": "https://github.com/acheatham87",
       "linkedIn": "https://www.linkedin.com/in/andrewcheatham87/",
@@ -82,11 +82,11 @@
       "id": 7,
       "firstName": "Eric",
       "lastName": "Bierschenk",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "reelThemIn": "Full Stack Software Developer | JavaScript, HTML5, CSS, React, C#, .NET",
+      "bio": "I always should have been a software developer. From an early age I was drawn to math and science. I followed the scientific path through a masters in chemistry from Vanderbilt and had a career working in that field. Before shifting my trajectory towards software development, I worked in a laboratory where my position focused on improving processes. While there I wanted to automate some of our repetitive tasks and as a result started learning ; after that there was no looking back.",
       "github": "https://github.com/e-bierschenk",
       "linkedIn": "https://www.linkedin.com/in/eric-bierschenk/",
-      "email": "email@me.com",
+      "email": "bushanks@gmail.com",
       "proImg": "ericBierschenk.jpg",
       "funImg": "ericBierschenkFUN.jpg",
       "scrtImg": "ericBierschenkSECRET.jpg"
@@ -121,7 +121,7 @@
       "id": 10,
       "firstName": "Jordan",
       "lastName": "Andershock",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
+      "reelThemIn": "Full Stack Software Developer: C# | ASP.NET | JavaScript | React | HTML | CSS | Git | GitHub | SQL | SQL Server",
       "bio": "Hello there! My name is Jordan Andershock, and I am a software developer in Nashville Software School’s Cohort 55. Working with computers has been a passion of mine for a long time. Prior to NSS, I earned my bachelor's degree in computer science at the University of Tennessee. I took some time off after graduation to attend seminary but realized that I could pursue that program part-time in addition to working in the software development industry. Joining NSS was intended to help refresh and sharpen my skill set now that I am seeking full-time employment. I love the problem-solving aspects of coding, and to me perhaps the most intriguing problem of that set is how to build big applications. Creating practical programs, wrangling large datasets, and writing code to solve complex problems in the most efficient way possible are just some aspects of computer science which drive my love for software development.",
       "github": "https://github.com/jandershock",
       "linkedIn": "https://www.linkedin.com/in/jandershock/",
@@ -200,11 +200,11 @@
       "id": 16,
       "firstName": "Punam",
       "lastName": "Ahire",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "reelThemIn": "Full Stack Software Developer | JavaScript, HTML5, CSS, React, C#, .NET, SQL Server<br /> “There is an easy way and a hard way. The hard part is finding the easy way.”",
+      "bio": "I’m a software developer and a loving mother of two girls. Software development has always been my passion as it provides a way for continued learning. It enables me to apply my problem solving skills to build something productive and valuable. I have worked as a software developer in the past from 2007 to 2013. As a former developer and a mother I truly understand how satisfying it is to create something new and amazing. <br /><br />I enjoy working in a team and understand what it takes to be a true team player. The fact about programming that amuses me is that it allows me to be creative at the same time while addressing a problem. <br /><br />Interesting facts about me: You can identify me as a person who can clap with one hand and speak in three different languages.",
       "github": "https://github.com/punamahire",
       "linkedIn": "https://www.linkedin.com/in/punam-ahire/",
-      "email": "email@me.com",
+      "email": "punambahire@gmail.com",
       "proImg": "punamAhire.jpg",
       "funImg": "punamAhireFUN.jpg",
       "scrtImg": "punamAhireSECRET.jpg"
@@ -272,7 +272,7 @@
       "email": "wesley.a.mitchell87@gmail.com",
       "proImg": "wesleyMitchell.jpg",
       "funImg": "wesleyMitchellFUN.jpg",
-      "scrtImg": "wesleyMitchellSECRET.jpg"
+      "scrtImg": "wesleyMitchellSECRET.gif"
     }
   ]
 }
