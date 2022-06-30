@@ -5,12 +5,12 @@
       "firstName": "Brenda",
       "lastName": "Long",
       "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "bio": "As a multi-disciplined creative, I apply technology as a method of communication with innovative code solutions. As a mentor, I strive to inspire ideas and help others embark on a journey of new opportunities. All the time, I am learning and challenging myself.",
       "github": "https://github.com/brendalong",
       "linkedIn": "https://www.linkedin.com/in/brenda-long/",
       "email": "email@me.com",
-      "proImg": "benWatts.jpg",
-      "funImg": "benWattsFUN.jpg",
+      "proImg": "brendapro.jpg",
+      "funImg": "brendapro.jpg",
       "scrtImg": "benWattsSECRET.jpg"
     },
     {
@@ -31,7 +31,7 @@
       "firstName": "Dakota",
       "lastName": "Lambert",
       "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "bio": "'Deep in the state of Kentucky, in the city of Berea, Dakota forged a brain, and into this brain he poured his programming knowledge, his creative thinking and his will to learn new concepts. One brain to learn it all...'<br> Building quality code using technologies such as; HTML, CSS, JavaScript, React.js, Python, Django, Django REST, Git, GitHub (and more to come).<br>My time as a software developer up to this point has been fruitful in ways I couldn't have imagined.<br>Navigating through different technologies and gaining a deeper understanding out of sheer curiosity has been an immense strength, as well as displaying that curiosity through conversations with individuals better versed than I am. <br>Seeking opportunities in the field has only made my drive to become a better developer stronger.<br>",
       "github": "https://github.com/DakotaLambert",
       "linkedIn": "https://www.linkedin.com/in/dakotashaynelambert/",
       "email": "email@me.com",
@@ -47,10 +47,10 @@
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/DougSilvera",
       "linkedIn": "https://www.linkedin.com/in/douglas-silvera/",
-      "email": "email@me.com",
-      "proImg": "benWatts.jpg",
-      "funImg": "benWattsFUN.jpg",
-      "scrtImg": "benWattsSECRET.jpg"
+      "email": "douglas.silvera121@gmail.com",
+      "proImg": "dougpropic.jpg",
+      "funImg": "dougpropic.jpg",
+      "scrtImg": "doug2.webp"
     },
     {
       "id": 5,
@@ -70,12 +70,12 @@
       "firstName": "Ross",
       "lastName": "Stovenour",
       "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "bio": "Worked 5 years for a guest focused company and acquired a wide range of skills from guest satisfaction and problem resolution to electrical troubleshooting and set piece construction. Learned and am continuing to learn different programming languages, the strongest of which is SQL.",
       "github": "https://github.com/Jubjub422",
       "linkedIn": "https://www.linkedin.com/in/ross-stovenour/",
       "email": "email@me.com",
-      "proImg": "benWatts.jpg",
-      "funImg": "benWattsFUN.jpg",
+      "proImg": "RossProPic.jpg",
+      "funImg": "RossProPic.jpg",
       "scrtImg": "benWattsSECRET.jpg"
     }
   ]
