@@ -149,7 +149,7 @@ function instructorsMembers(list) {
     }
     instructorContact += `</div>`;
 
-    let instructorInfo = `<div class="col-md-3 instructorsMems">
+    let instructorInfo = `<div class="col-md-3 instructorMems">
             <img class="card-img-top" src="images/instructors/${item.proImg}" alt="${item.firstName} ${item.lastName}" data-toggle="modal" data-target="#instructorsMember${item.id}" style="cursor:pointer;">
             <div class="card-body">
               <h4 class="card-title title-font">${item.firstName} ${item.lastName}</h4>`;
@@ -212,7 +212,7 @@ function instructorsMembers(list) {
         );
       });
     } else {
-      studentInfo += `
+      instructorInfo += `
         </div>
           </div>
           `;
