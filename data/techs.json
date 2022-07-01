@@ -31,12 +31,6 @@
             "link": "https://github.com/"
         },
         {
-            "id": 6,
-            "name": "Grunt",
-            "image": "grunt.png",
-            "link": "https://gruntjs.com/"
-        },
-        {
             "id": 7,
             "name": "HTML5",
             "image": "html5.png",
@@ -61,22 +55,10 @@
             "link": "https://getbootstrap.com/"
         },
         {
-            "id": 11,
-            "name": "Browserify",
-            "image": "browserify.png",
-            "link": "http://browserify.org/"
-        },
-        {
             "id": 12,
             "name": "Firebase",
             "image": "firebase.png",
             "link": "https://firebase.google.com"
-        },
-        {
-            "id": 13,
-            "name": "Materialize",
-            "image": "materialize.png",
-            "link": "http://materializecss.com/"
         },
         {
             "id": 14,
@@ -128,15 +110,15 @@
         },
         {
             "id": 22,
-            "name": "ES lint",
-            "image": "eslint.png",
-            "link": "https://eslint.org/"
+            "name": "JSON Server",
+            "image": "jsonserver.png",
+            "link": "https://www.npmjs.com/package/json-server"
         },
         {
             "id": 23,
-            "name": "UglifyJs",
-            "image": "uglify.png",
-            "link": "https://www.npmjs.com/package/uglifyjs"
+            "name": "React",
+            "image": "react.svg",
+            "link": "https://reactjs.org/"
         }
     ]
 }
