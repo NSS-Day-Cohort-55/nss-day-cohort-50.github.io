@@ -167,7 +167,7 @@
       "portfolio": "http://www.dndnearby.com/",
       "email": "lukeslater101@gmail.com",
       "proImg": "lukeSlater.jpg",
-      "funImg": "lukeSlaterFUN.webp",
+      "funImg": "lukeSlaterFUN.jpg",
       "scrtImg": "lukeSlaterSECRET.jpg"
     },
     {
@@ -207,7 +207,7 @@
       "email": "punambahire@gmail.com",
       "proImg": "punamAhire.jpg",
       "funImg": "punamAhireFUN.jpg",
-      "scrtImg": "punamAhireSECRET.jpg"
+      "scrtImg": "punamAhireSECRET.png"
     },
     {
       "id": 17,
@@ -239,13 +239,11 @@
       "id": 19,
       "firstName": "Tory",
       "lastName": "Theus",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "reelThemIn": "Software Developer | JavaScript, HTML5, CSS, React, C#, .NET, SQL, JSON",
+      "bio": "It all started with a conversation on an assembly line. A co-worker and I were picking each others brain and somehow we got on the topic of software development. I told him I had always been amazed at the endless possibilities of creating new things; however, I didn't know how to get started. Four years later I made the jump. I am excited to see what the future holds!",
       "github": "https://github.com/ToryT23",
-      "linkedIn": "",
-      "email": "email@me.com",
-      "proImg": "toryTheus.jpg",
-      "funImg": "toryTheusFUN.jpg",
+      "proImg": "toryTheus.png",
+      "funImg": "toryTheusFUN.png",
       "scrtImg": "toryTheusSECRET.jpg"
     },
     {
