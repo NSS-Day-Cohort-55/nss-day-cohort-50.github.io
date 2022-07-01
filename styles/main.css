@@ -178,11 +178,14 @@ main {
   margin-left: 0;
 }
 
-.card-img-top {
+img.card-img-top {
   border-top-left-radius: 10px;
   border-top-right-radius: 10px;
   min-height: 200px;
+  width:100%;
+  object-fit:fill ; 
 }
+
 
 .col,
 [class*="col-"] {
