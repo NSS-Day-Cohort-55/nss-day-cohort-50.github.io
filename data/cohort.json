@@ -167,7 +167,7 @@
       "portfolio": "http://www.dndnearby.com/",
       "email": "lukeslater101@gmail.com",
       "proImg": "lukeSlater.jpg",
-      "funImg": "lukeSlaterFUN.jpg",
+      "funImg": "lukeSlaterFUN.webp",
       "scrtImg": "lukeSlaterSECRET.jpg"
     },
     {
@@ -242,7 +242,7 @@
       "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
       "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
       "github": "https://github.com/ToryT23",
-      "linkedIn": "https://www.linkedin.com/in/luciankippminton/",
+      "linkedIn": "",
       "email": "email@me.com",
       "proImg": "toryTheus.jpg",
       "funImg": "toryTheusFUN.jpg",
@@ -252,12 +252,12 @@
       "id": 20,
       "firstName": "Vishal",
       "lastName": "Trivedi",
-      "reelThemIn": "A tagline: a single sentence to get employers interested in you.",
-      "bio": "This is a longer biography section. What is your story? What inspires you? Where have you been and where do you want to go? What makes you unique? What are your strengths (ignore the weaknesses ;-)? This section will likely be displayed in a modal after a user clicks your profile card. This modal is all about you and displays all your personal information, so feel free to be as detailed as you would like. I reccomend at least 10 sentences, and as many more as you feel you need to describe yourself. Keep in mind that people might not read past a certain point, so put the most important stuff first (inverted pyramid style).",
+      "reelThemIn": " Code is like humor. When you have to explain it, it’s bad. – Cory House",
+      "bio": "Prior to joining NSS I immersed myself in many different directions associated with the tech industry from sales, operation, and analysis. Realizing that I had a fundamentally strong understanding of these concepts made me realize that I wanted to pursue a more hands on and immersive side to the business. I've always loved building computers. It's been a passion! I'm glad that I can now do something similar with code. Besides building I love rock climbing, playing table tennis, music and enjoying classic movies",
       "github": "https://github.com/vishus12",
       "linkedIn": "https://www.linkedin.com/in/siprachanhchanthaphaychith/",
-      "email": "email@me.com",
       "proImg": "vishalTrivedi.webp",
+      "email": "vishaltrivedi92@gmail.com",
       "funImg": "vishalTrivediFUN.jpg",
       "scrtImg": "vishalTrivediSECRET.jpg"
     },
