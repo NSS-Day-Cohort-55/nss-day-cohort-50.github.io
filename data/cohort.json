@@ -168,7 +168,8 @@
       "email": "lukeslater101@gmail.com",
       "proImg": "lukeSlater.jpg",
       "funImg": "lukeSlaterFUN.jpg",
-      "scrtImg": "lukeSlaterSECRET.jpeg"
+      "scrtImg": "lukeSlaterSECRET.jpeg",
+      "fitCover": false
     },
     {
       "id": 14,
@@ -242,6 +243,8 @@
       "reelThemIn": "Software Developer | JavaScript, HTML5, CSS, React, C#, .NET, SQL, JSON",
       "bio": "It all started with a conversation on an assembly line. A co-worker and I were picking each others brain and somehow we got on the topic of software development. I told him I had always been amazed at the endless possibilities of creating new things; however, I didn't know how to get started. Four years later I made the jump. I am excited to see what the future holds!",
       "github": "https://github.com/ToryT23",
+      "linkedIn": "https://www.linkedin.com/in/tory-theus-806047244/",
+      "email": "theussoftwaredev@gmail.com",
       "proImg": "toryTheus.png",
       "funImg": "toryTheusFUN.png",
       "scrtImg": "toryTheusSECRET.jpg"
@@ -251,10 +254,10 @@
       "firstName": "Vishal",
       "lastName": "Trivedi",
       "reelThemIn": " Code is like humor. When you have to explain it, it’s bad. – Cory House",
-      "bio": "Prior to joining NSS I immersed myself in many different directions associated with the tech industry from sales, operation, and analysis. Realizing that I had a fundamentally strong understanding of these concepts made me realize that I wanted to pursue a more hands on and immersive side to the business. I've always loved building computers. It's been a passion! I'm glad that I can now do something similar with code. Besides building I love rock climbing, playing table tennis, music and enjoying classic movies",
+      "bio": "Prior to joining NSS I immersed myself in many different directions associated with the tech industry from sales, operation, and analysis. Realizing that I had a fundamentally strong understanding of these concepts made me come to the conclusion that I wanted to pursue a more hands on and immersive side to the business. I've always loved building computers. It's been a passion! I'm glad that I can now do something similar with code. Besides building I love rock climbing, playing table tennis, music and enjoying classic movies",
       "github": "https://github.com/vishus12",
       "linkedIn": "https://www.linkedin.com/in/vishaltrivedi12/",
-      "proImg": "vishalTrivedi.webp",
+      "proImg": "vishalTrivedi.jpg",
       "email": "vishaltrivedi92@gmail.com",
       "funImg": "vishalTrivediFUN.jpg",
       "scrtImg": "vishalTrivediSECRET.jpg"
